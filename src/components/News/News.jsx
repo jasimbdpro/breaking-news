@@ -1,21 +1,23 @@
-import React from 'react';
 import { Button, Card } from 'react-bootstrap';
 
 const News = (props) => {
-    const { author, title, description, urlToImage, content } = props.article
+    const { headline, content } = props.article
     console.log("yes")
     return (
 
         <Card>
             <Card.Header>Featured</Card.Header>
             <Card.Body>
-                <Card.Title>{title}</Card.Title>
+                <Card.Title>
+                    <h3>
+                        {headline}
+                    </h3>
+                </Card.Title>
                 <Card.Text>
                     {
-                        description
+                        content
                     }
                 </Card.Text>
-                <Button variant="primary">Go somewhere</Button>
             </Card.Body>
         </Card>
 
