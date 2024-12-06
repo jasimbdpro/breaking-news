@@ -1,8 +1,8 @@
-import { Button, Card } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 
 const News = (props) => {
     const { headline, content } = props.article
-    console.log("yes")
+    console.log(props.article)
     return (
 
         <Card>

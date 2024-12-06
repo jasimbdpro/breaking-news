@@ -1,42 +1,52 @@
 {
   "articles": [
     {
+      "id": "1",
       "headline": "New Tech Innovation Revolutionizes AI",
       "content": "In a groundbreaking development, scientists have unveiled a new AI algorithm that promises to revolutionize industries such as healthcare, finance, and entertainment. The algorithm utilizes a hybrid neural network approach, combining deep learning and reinforcement learning to enhance decision-making capabilities. Early tests have shown remarkable improvements in AI efficiency, with the potential to reduce operational costs in businesses by up to 30%. Experts predict that this breakthrough could lead to the development of AI systems capable of autonomously solving complex problems that currently require human intervention, paving the way for smarter and more efficient industries."
     },
     {
+      "id": "2",
       "headline": "Global Economy Faces Uncertainty Amid Rising Inflation",
       "content": "Economists are warning of tough times ahead as inflation continues to rise globally, leading to potential economic slowdowns and challenges for governments worldwide. In the wake of the ongoing supply chain disruptions and rising energy costs, countries across the globe are experiencing a sharp increase in consumer prices. Central banks are being forced to adjust interest rates, but the effectiveness of these measures remains uncertain. Many experts predict that if inflation continues at its current pace, the world could face widespread job losses, reduced spending power, and slower economic growth. The situation is further complicated by the global political instability and the ongoing geopolitical conflicts that continue to impact trade relations."
     },
     {
+      "id": "3",
       "headline": "SpaceX Successfully Launches Crewed Mission to Mars",
       "content": "SpaceX has achieved another milestone by sending a crewed mission to Mars, a historic step toward making human space travel a reality for future generations. The mission, which includes four astronauts from various countries, will study Mars' surface, collect soil samples, and assess the planet’s potential for future human colonization. The crew will spend approximately six months on Mars, conducting experiments and testing the viability of long-term human habitation. SpaceX’s success in this mission is seen as a major achievement in space exploration and a precursor to more ambitious plans to establish a permanent human presence on Mars within the next two decades."
     },
     {
+      "id": "4",
       "headline": "Climate Change: New Report Warns of Dire Consequences",
       "content": "A new report released by environmental organizations has issued a stark warning about the accelerating effects of climate change, urging immediate global action. The report highlights that the Earth's average temperature has risen by more than 1.5°C over the past century, resulting in more frequent and intense natural disasters such as wildfires, hurricanes, and floods. It also underscores the devastating impact on biodiversity, with thousands of species now at risk of extinction. The report calls for rapid shifts to renewable energy sources, stricter carbon emissions regulations, and international collaboration to prevent further environmental degradation. Scientists warn that if these measures are not taken immediately, the planet could face irreversible damage within the next few decades."
     },
     {
+      "id": "5",
       "headline": "Breakthrough in Quantum Computing Could Change Everything",
       "content": "Scientists have achieved a significant breakthrough in quantum computing, opening up possibilities for previously unimaginable advancements in technology and data processing. The new quantum processor, developed by a team of researchers from leading universities, is capable of solving complex problems that would take classical computers thousands of years to process. This development could lead to advancements in fields such as cryptography, drug discovery, and artificial intelligence. Experts believe that quantum computing will eventually revolutionize industries by enabling faster, more secure, and more efficient systems. However, the technology is still in its infancy, and challenges remain in scaling it for widespread use."
     },
     {
+      "id": "6",
       "headline": "Global Vaccination Drive Reaches New Milestone",
       "content": "The global vaccination effort has reached a critical milestone, with over 80% of the world's population receiving at least one dose of a COVID-19 vaccine. This achievement is seen as a major step toward controlling the pandemic and preventing further waves of infection. Health organizations have praised the efforts of governments, healthcare workers, and vaccine developers who have worked tirelessly to ensure the widespread distribution of vaccines. While many countries have made significant progress, there are still regions facing challenges due to supply chain issues, misinformation, and vaccine hesitancy. Experts warn that continued global cooperation is necessary to ensure that the remaining 20% of the population is vaccinated in the coming months to achieve herd immunity."
     },
     {
+      "id": "7",
       "headline": "Electric Cars Now More Affordable Than Ever Before",
       "content": "The cost of electric vehicles has dropped significantly in recent years, making them an increasingly viable option for consumers looking for an eco-friendly alternative to traditional cars. Advances in battery technology, along with government incentives and increased competition in the electric vehicle market, have helped lower prices, making EVs more accessible to a broader audience. In addition to their environmental benefits, electric cars now offer improved performance, longer range, and faster charging times compared to previous models. Industry experts predict that by 2030, electric vehicles will make up a significant portion of the global automobile market, further reducing dependence on fossil fuels and contributing to a greener future."
     },
     {
+      "id": "8",
       "headline": "New Study Reveals Surprising Benefits of Meditation",
       "content": "A recent study has found that regular meditation practice can significantly improve mental health, reduce stress, and increase overall happiness. The research, conducted by a team of psychologists and neuroscientists, reveals that just 10 minutes of meditation each day can lead to increased brain activity in areas associated with emotional regulation and empathy. Participants in the study reported a reduction in anxiety, improved focus, and a greater sense of well-being. Meditation is also shown to enhance sleep quality, boost immune function, and improve cognitive performance. Experts recommend incorporating meditation into daily routines as an effective tool for managing stress and improving mental health."
     },
     {
+      "id": "9",
       "headline": "Revolutionary Green Energy Technology Cuts Carbon Emissions",
       "content": "A new green energy technology promises to drastically reduce carbon emissions, offering hope for a more sustainable future. The technology, developed by a group of environmental engineers, captures carbon dioxide directly from the atmosphere and converts it into usable fuel. This process not only helps reduce the amount of greenhouse gases in the air but also provides a renewable source of energy. Early pilot programs have shown promising results, with the potential to scale up and be implemented in industrial sectors. Experts believe this breakthrough could be a game-changer in the fight against climate change, as it offers a viable way to offset emissions while still meeting the world’s energy needs."
     },
     {
+      "id": "10",
       "headline": "AI-Powered Healthcare Tools Set to Transform Patient Care",
       "content": "Artificial intelligence is now being used to enhance patient care, from improving diagnostic accuracy to streamlining hospital management systems. A new generation of AI-powered healthcare tools can analyze medical data more quickly and accurately than human doctors, assisting in early diagnosis and treatment planning. These tools are also being used to personalize care for patients, recommending the best treatment options based on an individual’s medical history and genetic profile. Hospitals are also adopting AI to optimize workflows, reducing wait times and improving efficiency. While AI has the potential to transform healthcare, experts emphasize the importance of maintaining a human touch in patient care and ensuring that AI is used ethically."
     }
