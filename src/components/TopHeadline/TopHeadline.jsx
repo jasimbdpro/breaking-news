@@ -6,7 +6,6 @@ const TopHeadline = () => {
         fetch("https://raw.githubusercontent.com/jasimbdpro/breaking-news/main/src/news-article.json")
             .then(res => res.json())
             .then(d => setData(d.articles))
-
     }, [])
 
 
